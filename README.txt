@@ -6,8 +6,8 @@ This is a dataset from Robotcar dataset, if you want to know more, please refer 
 
 # USAGE
 
-This is a dataset for HAL platforme test.
+This is a dataset for HAL platforme test. More information may be published later.
 
 # MAINTENANCE
 
-If you think you have found a bug, contact Teng Wu <teng.wu@ign.fr>
+If you think you have any problem, contact Teng Wu <teng.wu@ign.fr>
