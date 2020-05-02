@@ -1,0 +1,4 @@
+triangle_consistent_1.ply
+triangle_consistent_2.ply
+triangle_consistent_3.ply
+triangle_consistent_4.ply
